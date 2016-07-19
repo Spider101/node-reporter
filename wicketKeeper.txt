@@ -1,0 +1,24 @@
+42000000	Sanju Samson	
+19000000	Rishabh Pant	
+3000000	Sam Billings	
+23000000	Dinesh Karthik	
+10000000	Eklavya Dwivedi	
+3500000	Ishan Kishan	
+38000000	Jos Buttler	
+1000000	Jitesh Sharma	
+3000000	Peter Handscomb	
+1000000	Ankush Bains	
+12000000	Aditya Tare	
+15000000	Brad Haddin	
+3000000	Johnson Charles	
+3000000	Mushfiqur Rahim	
+3000000	Shane Dowrich	
+1000000	Sadiq Hassan Kirmani	
+1000000	Pradeep Malik	
+1000000	Jaskaranvir Singh Sohi	
+1000000	Manvinder Bisla	
+1000000	Ian Dev Singh Chauhan	
+1000000	Shreevats Goswami	
+1000000	Smit Kamlesh Patel	
+1000000	Mahesh Rawat	
+1000000	Dishant Yagnik	

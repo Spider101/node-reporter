@@ -1,0 +1,59 @@
+3000000	Joel Paris	
+1000000	Chama Milind	
+1000000	Pawan Suyal	
+35000000	Praveen Kumar	
+23000000	Dale Steyn	
+20000000	Dhawal Kulkarni	
+2000000	Pravin Tambe	
+1000000	Amit Mishra	
+1000000	Shivil Kaushik	
+1000000	Sarabjit Ladda	
+65000000	Mohit Sharma	
+21000000	Kyle Abbott	
+8000000	K.C. Cariappa	
+16000000	Jaydev Unadkat	
+15000000	Ankit Singh Rajpoot	
+13000000	John Hastings	
+32000000	Nathu Singh	
+25000000	Tim Southee	
+45000000	M. Ashwin	
+38000000	Ishant Sharma	
+5000000	Ashok Dinda	
+5000000	Scott Boland	
+3000000	Rudra Pratap Singh	
+3000000	Adam Zampa	
+2000000	Ishwar Chandra Pandey	
+1000000	Jaskaran Singh	
+20000000	Kane Richardson	
+5000000	Samuel Badree	
+2000000	Vikramjeet Malik	
+1000000	Vikas Tokas	
+55000000	Ashish Nehra	
+14000000	Mustafizur Rahman	
+12000000	Barinder Singh Sran	
+3000000	Abhimanyu Mithun	
+10000000	Nathan Lyon	
+10000000	Mthokozisi Shezi	
+10000000	Shaun Tait	
+1000000	Krishna Das	
+1000000	Seth Rance	
+1000000	Pulkit Narang	
+1000000	Tabrez Shamsi	
+1000000	Karanveer Singh	
+1000000	Jasinder Singh	
+1000000	Mitrakant Yadav	
+1000000	Rishi Arothe	
+1000000	Nikit Dhumal	
+1000000	Mohammad Javed	
+1000000	Akshay Chauhan	
+1000000	Tushar Deshpande	
+1000000	Sayan Ghosh	
+1000000	Israr Azim Khan	
+1000000	Prasidh Krishna	
+1000000	Shubham Mavi	
+1000000	M. Mohammad	
+1000000	Chandrakant Sakure	
+1000000	Prasanth Parameswaran	
+1000000	Rahul Shukla	
+1000000	Bhargav Bhatt	
+1000000	Ali Murtaza	

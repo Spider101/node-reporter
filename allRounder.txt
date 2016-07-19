@@ -1,0 +1,39 @@
+1000000	Pratyush Singh
+1000000	Mahipal Lomror
+1000000	Syed Khaleel Ahmed
+1000000	Akhil Arvind Herwadkar
+23000000	Dwayne Smith
+85000000	Pawan Negi
+7000000	Christopher Morris
+42000000	Carlos Brathwaite
+5000000	Andrew Tye
+2000000	Jaydev Shah
+2000000	Shadab Jakati
+2000000	Pradeep Sangwan
+1000000	Akshdeep Nath
+5500000	Marcus Stoinis
+3000000	Farhaan Behardien
+1000000	Pardeep Sahu
+1000000	Swapnil Singh
+7000000	Jason Holder
+3000000	Colin Munro
+2000000	Rajagopal Sathish
+1000000	Manan Ajay Sharma
+20000000	Krunal Pandya
+14000000	Kishore Pramod Kamath
+1000000	Deepak Punia
+10000000	Irfan Pathan
+10000000	Thisara Perera
+6000000	Rajat Bhatia
+1000000	Deepak Chahar
+1000000	Baba Aparajith
+1000000	Ankit Sharma
+95000000	Shane Watson
+20000000	Stuart Binny
+3500000	Praveen Dubey
+1000000	Akshay Karnewar
+1000000	Iqbal Abdullah
+70000000	Yuvraj Singh
+42000000	Deepak Hooda
+5000000	Ben Cutting
+3500000	Vijay Shankar

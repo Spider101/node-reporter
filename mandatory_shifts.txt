@@ -1,0 +1,29 @@
+Definition:  Among all vectors W where V' is a one-shift of W,
+               suppose that V is the one with the largest lexicographical
+               order, we say V' is a mandatory one-shift of V.
+               [E.g., V' = 0010110 -->  V = 0100110 ]
+
+  Claim:  In our manipulation of M_local, if at each node, we generate
+          only the mandatory one-shift (instead of all the one-shifts),
+          the algorithm remains correct.
+
+
+Your definition of mandatory shift has further consequence. You raised this point at the time of our final cocoa submission. I will explain in terms of our cocoa paper only to keep things simple. See because we are inserting the new items in the heap checking the max lexicographic order, we are not inserting the same item again. Even before you pointed this out, my students were checking it in their program but we did not explain it properly in the algorithm. Now what it does additionally is that it should decrease complexity. We need to insert only those nodes out of the r possible nodes such that the present node is the comes last in lexicographic order among all its parents. I have a feeling even this check can be done in O(1) time. Though I need to be more sure before I can confirm. In that case our final complexity would have become k log k instead of k r log k which we finally reported. I mean assuming k >> r, thus could be shown.
+
+There is an amortization involved which is easy to observe. Definitely the nodes get generated from mandatory shift and each nodes gets generated from only one of its parents. So for ultimately k nodes we need exactly k mandatory shifts. However my point is to reduce the complexity, only this observation is not enough; we need to reject all the non-mandatory shifts without even checking the type of shift. Because if checking is done it will take O(r) time. Now I have got a pattern. I will try to write it here. See in our 6C3 case if 1 means occupied and 0 means vacant  (111000 is the least in lexicographic order and 000111 comes last)
+
+Then out of 110010 and 101100, I guess the right one is larger in lexicographic order and will be responsible for generating 101010 by mandatory shift.
+
+Now I have a theorem - when you delete something from heap - you may need at most 2 mandatory shifts.
+1. Move the right most 1 by 1 position if space is available to the right.(trivial)
+Eg. 101100 to 101010
+2. If the right most block of 1 has a single 0 to its left, then move the 1 immediately to the left of that 0 to the right by one position. This is because you cannot generate same target by moving another 1, which is to the right of this 1 which moved.
+Eg. 101100 to 011100
+
+All other movements are made useless by the 2nd criterion.
+
+I could not find any error for 6c3. 
+Then for any n-length pattern we just need to track the right most consecutive block of 1 and know whether there is a single 0 to its left. I guess it can be done in a smart way. What do u think?
+
+Eg. 1100001110011011100 this one will satisfy the 2nd condition of the theorem
+But not this one 1001110.
